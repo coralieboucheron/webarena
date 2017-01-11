@@ -1,0 +1,319 @@
+commit c818aaf7e5ace55d47ec1a9de2eaf6c1e84463aa
+Author: DESKTOP-PSAKD7I\augus <augustin.motel@gmail.com>
+Date:   Sun Dec 4 22:12:07 2016 +0100
+
+    début du css plus ajout vue avatar dans l'arene
+
+commit dfedc8048b719440f359bdb3192053fe827e6345
+Author: Coralie Boucheron <boucheron.coralie@yahoo.fr>
+Date:   Sun Dec 4 21:52:36 2016 +0100
+
+    reset password
+
+commit 26d54d131070d784f328b57e029022a7bcf0b856
+Author: Marion Cottet <Marion Cottet>
+Date:   Sun Dec 4 21:47:28 2016 +0100
+
+    amélioration création des Events + amélioration du footer
+
+commit 6e1650d0b30116bd79c08c24b4b31296ceb263be
+Author: marionjolly <marionyon@hotmail.fr>
+Date:   Sun Dec 4 20:55:21 2016 +0100
+
+    Ajout de la connexion avec Google
+
+commit 87d86f7e2db77c8ddc26f280d74f732ea2d43b37
+Author: DESKTOP-PSAKD7I\augus <augustin.motel@gmail.com>
+Date:   Sun Dec 4 20:42:48 2016 +0100
+
+    Correction du blindage déplacement
+
+commit c8368fa595fca2070affc965519dd29e9446c9cb
+Author: DESKTOP-PSAKD7I\augus <augustin.motel@gmail.com>
+Date:   Sun Dec 4 17:02:43 2016 +0100
+
+    blindage de l'apparition des personnages
+
+commit 7e00162a7dd623d13fc8b06eb2cd9c5d573b29af
+Author: DESKTOP-PSAKD7I\augus <augustin.motel@gmail.com>
+Date:   Sun Dec 4 16:50:17 2016 +0100
+
+    si une attaque est faite sur un monstre il est détruit
+
+commit 9ef4afa86ad72276c1c8efde0fede33f1e170e7e
+Author: DESKTOP-PSAKD7I\augus <augustin.motel@gmail.com>
+Date:   Sun Dec 4 16:18:01 2016 +0100
+
+    Si un combattant passe sur un mostre ou un piège il meurt
+
+commit 9d5c16e7699ee7c0c41f18deb3a188d9dd74fcfe
+Author: Marion Cottet <Marion Cottet>
+Date:   Sun Dec 4 15:59:31 2016 +0100
+
+    Ajout des Messages
+
+commit a3e848d10ea7786a19541c47dd6ec11d86f69c4d
+Author: Coralie Boucheron <boucheron.coralie@yahoo.fr>
+Date:   Sun Dec 4 14:38:23 2016 +0100
+
+    Redirection vers createfighter quand on est mort
+
+commit 21c25b0583f51cb1b0f28e3fc7e2d5c20a20f215
+Author: DESKTOP-PSAKD7I\augus <augustin.motel@gmail.com>
+Date:   Sun Dec 4 12:47:28 2016 +0100
+
+    Création des surroundings si table vide lors de l'inscription et de l'authent
+
+commit ec569a836f6342b228784624dc3f197538190f4f
+Author: DESKTOP-PSAKD7I\augus <augustin.motel@gmail.com>
+Date:   Sun Dec 4 02:25:51 2016 +0100
+
+    Mise en place des surroundings. Fonctions de générations + incorporation dans la vue
+    -> génération : à voir comment implémenter
+
+commit 9a7e6fb588706d7207c1876e90046bdd59d23f4c
+Author: DESKTOP-PSAKD7I\augus <augustin.motel@gmail.com>
+Date:   Sun Dec 4 00:41:47 2016 +0100
+
+    affichage uniquement du fighter du joueur
+
+commit bb97359174cfe6de889000e5839ab722387cf0a9
+Author: DESKTOP-PSAKD7I\augus <augustin.motel@gmail.com>
+Date:   Sun Dec 4 00:24:46 2016 +0100
+
+    suppression d'instructions de debug
+
+commit e17173ddd7601bfb16d59cf9a91a2427bdf408bf
+Author: DESKTOP-PSAKD7I\augus <augustin.motel@gmail.com>
+Date:   Sun Dec 4 00:22:31 2016 +0100
+
+    correction du bonus d'attaque
+
+commit 84b9e7c45a5388b86b74ca5ffbe22d7c45a08b1d
+Author: Marion Cottet <Marion Cottet>
+Date:   Sun Dec 4 00:12:27 2016 +0100
+
+    Ajout des API
+
+commit 6ce9fec86127f2705dfead67c4b3ab6754a5f19e
+Author: DESKTOP-PSAKD7I\augus <augustin.motel@gmail.com>
+Date:   Sat Dec 3 23:29:08 2016 +0100
+
+    ajout bonus d'attaque avec la guilde
+
+commit be38ea23ed459a583a5a99dc136687c5649cd8af
+Author: Coralie Boucheron <boucheron.coralie@yahoo.fr>
+Date:   Sat Dec 3 23:20:19 2016 +0100
+
+    correction rand
+
+commit ca3bae310429394f4d8631a8eb3cf32cc01d1f3f
+Author: Coralie Boucheron <boucheron.coralie@yahoo.fr>
+Date:   Sat Dec 3 23:13:49 2016 +0100
+
+    Correction create fighter
+
+commit 28d75e3e42a026b1ca9d1fef9c731740e604cc7e
+Author: Coralie Boucheron <boucheron.coralie@yahoo.fr>
+Date:   Sat Dec 3 22:46:15 2016 +0100
+
+    Redirection après inscription
+
+commit 182f058d6cd71e96a75fa9a0c438241ec9ec548a
+Author: DESKTOP-PSAKD7I\augus <augustin.motel@gmail.com>
+Date:   Sat Dec 3 22:20:41 2016 +0100
+
+    Remplacement des 1 dans les fonctions par l'id du fighter
+
+commit 2be29dbbeb97340d7572e0a50e8198de85c3fa5e
+Author: DESKTOP-PSAKD7I\augus <augustin.motel@gmail.com>
+Date:   Sat Dec 3 22:02:42 2016 +0100
+
+    level up fonctionnel
+
+commit 69ec9ba84cc53fc4fc40f6d358db0db4a59dc796
+Author: marionjolly <marionyon@hotmail.fr>
+Date:   Sat Dec 3 20:37:53 2016 +0100
+
+    Connexion avec Auth effective + déco ok
+
+commit 73d4b1841c972f0937ce6ed075ea88382d761dca
+Author: Marion Cottet <Marion Cottet>
+Date:   Sat Dec 3 12:36:43 2016 +0100
+
+    Create guild + join guild + create new fighter
+
+commit ddf56c7875d8707fbe7e2de9877e3f2f2e934995
+Author: Marion Cottet <Marion Cottet>
+Date:   Fri Dec 2 18:42:35 2016 +0100
+
+    Action de crier + amélioration création des events
+
+commit 42a4b4b92026aa2e39b2794cd2b009f206cb56f0
+Author: Marion Cottet <Marion Cottet>
+Date:   Fri Dec 2 17:38:20 2016 +0100
+
+    Création des events lors des attaques + blindage déplacement
+
+commit 51307f1924fb9c0f572ab3f9706193f869375de7
+Author: Marion Cottet <Marion Cottet>
+Date:   Fri Dec 2 15:39:11 2016 +0100
+
+    Affichage des events en liste dans la page diary (dans la vue + moins de 24h) + ajout de la fonction joinGuild() + suppression des fonctions test dans la page index
+
+commit e3064057f2856013e797dc44f0f99535ed5943bb
+Author: Coralie Boucheron <boucheron.coralie@yahoo.fr>
+Date:   Sun Nov 27 20:26:48 2016 +0100
+
+    redirection vers createfighter quand on s'inscrit
+
+commit 006b527bacbf580474093962cb07c375d04b875b
+Author: Coralie Boucheron <boucheron.coralie@yahoo.fr>
+Date:   Sun Nov 27 19:52:56 2016 +0100
+
+    Hash password
+
+commit af3e5e24ead1476a6cff4f7718f4ac23eb86f004
+Author: Coralie Boucheron <boucheron.coralie@yahoo.fr>
+Date:   Sun Nov 27 19:16:28 2016 +0100
+
+    Ajout lien pour les guildes
+
+commit e41960254d551d43c4c46f79f1ceb018e5bc93b0
+Author: Coralie Boucheron <boucheron.coralie@yahoo.fr>
+Date:   Sun Nov 27 19:05:52 2016 +0100
+
+    Create fighter + create guild + join Guild
+
+commit 7b3bcd5f388a20de84df5d9b19a7b591ea47de07
+Author: Coralie Boucheron <boucheron.coralie@yahoo.fr>
+Date:   Wed Nov 23 19:53:26 2016 +0100
+
+    Create fighter upload + affichage avatar
+
+commit 93bd53a67ec19d7b52c2e14d66fd7a9ae8fd6a21
+Merge: be18e08 c76a7df
+Author: Marion Cottet <Marion Cottet>
+Date:   Wed Nov 23 16:52:59 2016 +0100
+
+    Merge branch 'master' of https://bitbucket.org/webarenaece/webarena
+
+commit be18e0838877db531a633ca66871b907acb52f1d
+Author: Marion Cottet <Marion Cottet>
+Date:   Wed Nov 23 16:52:39 2016 +0100
+
+    Améliorations css + suppresion span
+
+commit c76a7df2bc29691ea62d713c3dc1bb37bf4e86bf
+Author: marionjolly <marionyon@hotmail.fr>
+Date:   Wed Nov 23 16:43:02 2016 +0100
+
+    Déconnexion opérationnelle
+
+commit aa5a4ca38b04bbfd70fba0f4498a7249eebc9690
+Author: Marion Cottet <Marion Cottet>
+Date:   Wed Nov 23 16:09:33 2016 +0100
+
+    Color the cases in the view of the fighter (sight page)
+
+commit aa4e4032d517468e562e762cb18e4dbd128b96a3
+Author: Marion Cottet <Marion Cottet>
+Date:   Wed Nov 23 16:00:43 2016 +0100
+
+    Creation of diary page
+
+commit 80dbf5bc76b99bb0cde76486da9e7fe344e68eab
+Author: DESKTOP-PSAKD7I\augus <augustin.motel@gmail.com>
+Date:   Wed Nov 23 15:38:07 2016 +0100
+
+    CSS + ajustements
+
+commit e8a36ac7ad9376e58e8b34d45e83fbcc575722cc
+Author: Coralie Boucheron <boucheron.coralie@yahoo.fr>
+Date:   Wed Nov 23 15:25:37 2016 +0100
+
+    Create fighter fini + guild pas fini
+
+commit 4035cdaa98f57633393af54331e5388cb330d359
+Author: marionjolly <marionyon@hotmail.fr>
+Date:   Wed Nov 23 11:29:38 2016 +0100
+
+    Connexion ok + session ok + changement couleur barre d'outils avec liens
+
+commit f0afedea8c1659888ebbc83604075e0316009ab3
+Author: marionjolly <marionyon@hotmail.fr>
+Date:   Tue Nov 22 10:46:17 2016 +0100
+
+    Connexion fonctionnelle + ajout d'images ok
+
+commit 375f3aa504b01547122e2484b9066bb744d92074
+Author: DESKTOP-PSAKD7I\augus <augustin.motel@gmail.com>
+Date:   Tue Nov 22 08:16:53 2016 +0100
+
+    Correction distance manhattan
+
+commit c10e97ed26eca7f28711838a2cf56a453d47b420
+Author: DESKTOP-PSAKD7I\augus <augustin.motel@gmail.com>
+Date:   Tue Nov 15 16:02:36 2016 +0100
+
+    Ajout de la distance manhattant. La vue s'adapte désormais
+
+commit 2eadaa62fe1f759817ca1b1e77dd3b4343b25a7d
+Author: DESKTOP-PSAKD7I\augus <augustin.motel@gmail.com>
+Date:   Tue Nov 15 14:32:19 2016 +0100
+
+    ajout de l'attaque (boutons) + diminution des points de vie de l'ennemi jusqu'à la mort. Augmentation de l'XP de l'attaquant
+
+commit 57e2662368537539b7617c4b806ab2a20796f51e
+Author: marionjolly <marionyon@hotmail.fr>
+Date:   Tue Nov 8 21:33:42 2016 +0100
+
+    Mouvement du personnage + ajout d'un player + début connexion
+
+commit bb2cad7b93ad01714414a398b1fb45aa22e8ec0d
+Author: DESKTOP-PSAKD7I\augus <augustin.motel@gmail.com>
+Date:   Tue Nov 8 15:31:18 2016 +0100
+
+    ajout des boutons deplacement et attaque
+
+commit a83ff0a1374cb7b67250318a00348bd60d5709bc
+Author: DESKTOP-PSAKD7I\augus <augustin.motel@gmail.com>
+Date:   Tue Nov 8 14:56:25 2016 +0100
+
+    affichage matrice + nom des joueurs à leur position
+
+commit ba536db64ee9e37ff8437be38f863025b5b80b27
+Author: Coralie Boucheron <boucheron.coralie@yahoo.fr>
+Date:   Tue Nov 8 11:23:37 2016 +0100
+
+    formulaire login
+
+commit 19918db97096d771ce3c106322419a5a3ccbfd77
+Author: Coralie Boucheron <boucheron.coralie@yahoo.fr>
+Date:   Mon Nov 7 17:59:05 2016 +0100
+
+    Footer
+
+commit 13ac2f4e8b59099f4e75462f870a3c80d6dbdf9d
+Author: Coralie Boucheron <boucheron.coralie@yahoo.fr>
+Date:   Mon Nov 7 16:18:39 2016 +0100
+
+    ArenaController pour fighter
+
+commit 3bdab1af04062051785625f7c060181c7ae6b806
+Author: Coralie Boucheron <boucheron.coralie@yahoo.fr>
+Date:   Mon Nov 7 16:13:59 2016 +0100
+
+    Liens vers les pages + footer
+
+commit 27c1b91a73bdba36ec1e4c04c99b4964ef43edf1
+Author: marionjolly <marionyon@hotmail.fr>
+Date:   Mon Nov 7 16:06:33 2016 +0100
+
+    TP 2 terminé (affichage meilleur fighter + niveau)
+
+commit 421e08cf2d2426f6c6bd8407878f8d0071a15157
+Author: DESKTOP-PSAKD7I\augus <augustin.motel@gmail.com>
+Date:   Mon Oct 17 11:12:59 2016 +0200
+
+    1st commit - import project
